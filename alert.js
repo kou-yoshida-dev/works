@@ -6,10 +6,7 @@ var name = taro;
 
 
 
-function loadHello(){
-    alert("Hello!");
-}
-  
+
   function sum(){
     var x = 3;
     var y = 4;
